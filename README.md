@@ -34,15 +34,13 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/ThatsTheWhiteWolf/ThatsTheWhiteWolf/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/ThatsTheWhiteWolf">
-    <img src="![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=40nfm58191r77sh96gvip7805)" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/40nfm58191r77sh96gvip7805">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=40nfm58191r77sh96gvip7805&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
 
