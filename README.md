@@ -41,7 +41,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/40nfm58191r77sh96gvip7805">
-    <img src="[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=40nfm58191r77sh96gvip7805&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=40nfm58191r77sh96gvip7805&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color=00ffff&bar_color_cover=true)]]" alt="Spotify Now Playing"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=40nfm58191r77sh96gvip7805&count=10&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
